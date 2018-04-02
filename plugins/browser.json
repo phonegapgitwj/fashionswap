@@ -1,0 +1,73 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-battery-status": {
+            "PACKAGE_NAME": "nl.janssen.fashionswap"
+        },
+        "cordova-plugin-camera": {
+            "PACKAGE_NAME": "nl.janssen.fashionswap"
+        },
+        "cordova-plugin-media-capture": {
+            "PACKAGE_NAME": "nl.janssen.fashionswap"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "nl.janssen.fashionswap"
+        },
+        "cordova-plugin-contacts": {
+            "PACKAGE_NAME": "nl.janssen.fashionswap"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "nl.janssen.fashionswap"
+        },
+        "cordova-plugin-device-motion": {
+            "PACKAGE_NAME": "nl.janssen.fashionswap"
+        },
+        "cordova-plugin-device-orientation": {
+            "PACKAGE_NAME": "nl.janssen.fashionswap"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "nl.janssen.fashionswap"
+        },
+        "cordova-plugin-file-transfer": {
+            "PACKAGE_NAME": "nl.janssen.fashionswap"
+        },
+        "cordova-plugin-geolocation": {
+            "PACKAGE_NAME": "nl.janssen.fashionswap"
+        },
+        "cordova-plugin-globalization": {
+            "PACKAGE_NAME": "nl.janssen.fashionswap"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "nl.janssen.fashionswap"
+        },
+        "cordova-plugin-media": {
+            "PACKAGE_NAME": "nl.janssen.fashionswap"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "nl.janssen.fashionswap"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "nl.janssen.fashionswap"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "nl.janssen.fashionswap"
+        },
+        "cordova-plugin-vibration": {
+            "PACKAGE_NAME": "nl.janssen.fashionswap"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "nl.janssen.fashionswap"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-file": {
+            "PACKAGE_NAME": "nl.janssen.fashionswap"
+        }
+    }
+}
