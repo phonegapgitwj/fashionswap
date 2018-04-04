@@ -123,12 +123,12 @@ h1 {
 }
 .headtekst {
     text-align: right;
-    font-size: 40px;
+    font-size: 36px;
     font-weight: bold;
-    margin-top: -55px;
+    margin-top: -58px;
     font-family: 'Comic Sans MS';
     color:white;
-    margin-right: 40px;
+    margin-right: 10px;
 }
 .bottomhead {
     position: absolute;
