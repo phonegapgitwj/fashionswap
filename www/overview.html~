@@ -23,11 +23,12 @@
 
 <body>
 	<div class="tophead">
-		<a href="index.html"><img src="img/logo.jpg" height="50px" width="50px" /></a>
+		<a href="index.html"><img src="img/logo.jpg" height="75px" width="75px" /></a>
 		<div class="headtekst">Fashion Swap</div>
 	</div>
 	<div class="bottomhead">
-		<img src="img/mail-open-outline.png" height="75px" width="75px"><img src="img/zoom-in-outline.png" height="75px" width="75px"><img src="" alt=""><img src="img/cart-outline.png" height="75px" width="75px">
+		<img src="img/mail-open-outline.png" height="74px" width="74px"><img src="img/zoom-in-outline.png" height="74px" width="74px"><img src="" alt=""><img src="img/cart-outline.png" height="74px" width="74px">
+		<img src="img/phone-ring-outline.png" height="74px" width="74px"><img src="img/home-outline.png" height="74px" width="74px">	
 	</div>
 	<script type="text/javascript" src="cordova.js"></script>
     <script type="text/javascript" src="js/index.js"></script>
