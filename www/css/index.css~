@@ -126,10 +126,11 @@ h1 {
     font-size: 20px;
     font-weight: bold;
     margin-top: -28px;
+    font-family: sans-serif;
 }
 .bottomhead {
     position: absolute;
-    bottom: 75px;
+    bottom: 0px;
     width:100%;
     display: block;
     margin-left: auto;

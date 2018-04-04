@@ -130,7 +130,7 @@ h1 {
 }
 .bottomhead {
     position: absolute;
-    bottom: 75px;
+    bottom: 0px;
     width:100%;
     display: block;
     margin-left: auto;
