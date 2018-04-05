@@ -26,6 +26,8 @@
 		<a href="index.html"><img src="img/logo.jpg" height="75px" width="85px" /></a>
 		<div class="headtekst">Fashion Swap</div>
 	</div>
+	<div  style="overflow:scroll; height:400px;margin-top:80px;">
+	</div>
 	<div class="bottomhead">
 			<a href="messages.html"><img src="img/mail-open-outline.png" height="72px" width="72px"></a>
 		<a href="search.html"><img src="img/zoom-in-outline.png" height="72px" width="72px"></a>
