@@ -26,7 +26,7 @@
 		<a href="index.html"><img src="img/logo.jpg" height="75px" width="85px" /></a>
 		<div class="headtekst">Fashion Swap</div>
 	</div>
-	<div  style="overflow:scroll; height:400px;">
+	<div  style="overflow:scroll; height:400px;top:80px;">
 		<ul><li><h3>New bid</h3>Hello, I like you shirt but....
 		</li><li><h3>New bid</h3>Hello, I like you shirt but....
 		</li><li><h3>New Message from Sanne</h3>
@@ -36,11 +36,11 @@
 		</ul>
 	</div>
 	<div class="bottomhead">
-		<a href="messages.html"><img src="img/mail-open-outline.png" height="74px" width="74px"></a>
-		<a href="search.html"><img src="img/zoom-in-outline.png" height="74px" width="74px"></a>
-		<a href="shopping.html"><img src="img/cart-outline.png" height="74px" width="74px"></a>
-		<a href="contact.html"><img src="img/phone-ring-outline.png" height="74px" width="74px"></a>
-		<a href="overview.html"><img src="img/home-outline.png" height="74px" width="74px"></a>
+		<a href="messages.html"><img src="img/mail-open-outline.png" height="72px" width="72px"></a>
+		<a href="search.html"><img src="img/zoom-in-outline.png" height="72px" width="72px"></a>
+		<a href="shopping.html"><img src="img/cart-outline.png" height="72px" width="72px"></a>
+		<a href="contact.html"><img src="img/phone-ring-outline.png" height="72px" width="72px"></a>
+		<a href="overview.html"><img src="img/home-outline.png" height="72px" width="72px"></a>
 	</div>
 	<script type="text/javascript" src="cordova.js"></script>
     <script type="text/javascript" src="js/index.js"></script>
