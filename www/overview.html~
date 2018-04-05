@@ -26,6 +26,11 @@
 		<a href="index.html"><img src="img/logo.jpg" height="75px" width="85px" /></a>
 		<div class="headtekst">Fashion Swap</div>
 	</div>
+	<div  style="overflow:scroll; height:400px;margin-top:80px; margin-left:15px;margin-right:15px;">
+		<h2>Welcome Benthe</h2>
+		You have 3 items on sale<br/><br/>
+		You Have 2 new bids
+	</div>
 	<div class="bottomhead">
 		<a href="messages.html"><img src="img/mail-open-outline.png" height="72px" width="72px"></a>
 		<a href="search.html"><img src="img/zoom-in-outline.png" height="72px" width="72px"></a>

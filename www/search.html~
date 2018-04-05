@@ -26,6 +26,13 @@
 		<a href="index.html"><img src="img/logo.jpg" height="75px" width="85px" /></a>
 		<div class="headtekst">Fashion Swap</div>
 	</div>
+	<div  style="overflow:scroll; height:400px;margin-top:80px;text-align: center">
+		<form action="search.html">
+        <label for="loginnaam">What are you looking for:</label>
+        <input id="loginnaam" type="text"/><br/>
+        <input type="submit" class="loginbutton" value="search" />
+    </form>
+	</div>
 	<div class="bottomhead">
 		<a href="messages.html"><img src="img/mail-open-outline.png" height="72px" width="72px"></a>
 		<a href="search.html"><img src="img/zoom-in-outline.png" height="72px" width="72px"></a>
